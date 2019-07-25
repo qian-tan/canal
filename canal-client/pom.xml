@@ -12,7 +12,7 @@
     <name>canal-client</name>
     <artifactId>canal-client</artifactId>
     <description>easy canal client</description>
-    <url>https://github.com/NormanGyllenhaal/canal-client.git</url>
+    <url>https://github.com/qian-tan/canal.git</url>
 
 
     <dependencies>
