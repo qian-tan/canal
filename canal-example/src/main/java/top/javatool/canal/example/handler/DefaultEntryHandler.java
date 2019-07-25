@@ -22,8 +22,8 @@ import static org.jooq.impl.DSL.table;
 
 /**
  * 获取到map 对象后转换成sql，使用jooq执行 sql
- * @author yang peng
- * @date 2019/4/1915:19
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 @CanalTable(value = "all")
 @Component

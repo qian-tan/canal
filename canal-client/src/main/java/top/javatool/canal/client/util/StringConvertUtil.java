@@ -5,7 +5,7 @@ import java.text.ParseException;
 import java.util.Date;
 
 /**
- * @author yangpeng
+ * @author yujiacheng
  */
 public class StringConvertUtil {
 

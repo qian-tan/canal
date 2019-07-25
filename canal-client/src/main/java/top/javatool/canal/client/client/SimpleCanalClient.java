@@ -10,8 +10,8 @@ import java.net.InetSocketAddress;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author yang peng
- * @date 2019/3/2619:12
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public class SimpleCanalClient extends AbstractCanalClient {
 

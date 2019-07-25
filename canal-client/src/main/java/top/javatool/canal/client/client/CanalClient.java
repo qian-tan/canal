@@ -1,8 +1,8 @@
 package top.javatool.canal.client.client;
 
 /**
- * @author yang peng
- * @date 2019/3/2618:25
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public interface CanalClient {
 

@@ -1,8 +1,8 @@
 package top.javatool.canal.client.enums;
 
 /**
- * @author yang peng
- * @date 2019/4/1915:20
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public enum TableNameEnum {
 

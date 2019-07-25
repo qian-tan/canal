@@ -6,8 +6,8 @@ import top.javatool.canal.client.handler.EntryHandler;
 import java.util.Set;
 
 /**
- * @author yang peng
- * @date 2019/3/2916:45
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public interface IModelFactory<T> {
 

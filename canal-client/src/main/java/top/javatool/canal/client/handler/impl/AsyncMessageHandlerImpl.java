@@ -11,8 +11,8 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 
 /**
- * @author yang peng
- * @date 2019/3/2921:40
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public class AsyncMessageHandlerImpl extends AbstractMessageHandler {
 

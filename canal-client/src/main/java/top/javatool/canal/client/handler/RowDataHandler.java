@@ -3,8 +3,8 @@ package top.javatool.canal.client.handler;
 import com.alibaba.otter.canal.protocol.CanalEntry;
 
 /**
- * @author yang peng
- * @date 2019/3/2917:20
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public interface RowDataHandler<T> {
 

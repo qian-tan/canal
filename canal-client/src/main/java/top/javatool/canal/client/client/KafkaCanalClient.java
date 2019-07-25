@@ -12,8 +12,8 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author yang peng
- * @date 2019/3/2910:02
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 
 public class KafkaCanalClient extends AbstractCanalClient {

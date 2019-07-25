@@ -1,8 +1,8 @@
 package top.javatool.canal.client.handler;
 
 /**
- * @author yang peng
- * @date 2019/3/2622:06
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public interface MessageHandler<T> {
 

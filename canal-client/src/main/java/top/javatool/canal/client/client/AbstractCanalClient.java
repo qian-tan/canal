@@ -11,8 +11,8 @@ import top.javatool.canal.client.handler.MessageHandler;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author yang peng
- * @date 2019/3/2619:11
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 
 public abstract class AbstractCanalClient implements CanalClient {

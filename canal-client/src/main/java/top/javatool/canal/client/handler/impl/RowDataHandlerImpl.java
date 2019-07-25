@@ -10,8 +10,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author yang peng
- * @date 2019/3/2917:21
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public class RowDataHandlerImpl implements RowDataHandler<CanalEntry.RowData> {
 

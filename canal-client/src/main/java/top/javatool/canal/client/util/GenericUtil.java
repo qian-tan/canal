@@ -10,8 +10,8 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author yang peng
- * @date 2019/3/2910:45
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 
 public class GenericUtil {

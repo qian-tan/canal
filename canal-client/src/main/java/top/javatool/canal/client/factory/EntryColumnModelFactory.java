@@ -15,8 +15,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author yang peng
- * @date 2019/3/2916:16
+ * @author yujiacheng
+ * @date 2019-07-24
  */
 public class EntryColumnModelFactory extends AbstractModelFactory<List<CanalEntry.Column>> {
 
